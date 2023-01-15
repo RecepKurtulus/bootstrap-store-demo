@@ -1,0 +1,69 @@
+.body-style{
+
+    background-color: #272343;
+    
+
+
+}
+.first-color{
+    background-color: #272343;
+}
+.fourth-color{
+    background-color: #bae8e8;
+}
+.third-color{
+    background-color: #e3f6f5
+}
+
+.second-color{
+
+
+    background-color: white;
+}
+.first-text-color{
+    color:#272343;
+}
+.second-text-color{
+    color:white;
+}
+.third-text-color{
+    color:#e3f6f5;
+}
+.fourth-text-color{
+    color:#bae8e8;
+
+}
+.body-margin{
+
+    margin: 50px 100px 50px 100px;
+    height:fit-content
+}
+.body-items{
+    margin: 20px 0px 20px 0px;
+}
+.nav-text{
+    color:#272343;
+    margin-top: 15px;
+    font-size: 20px;
+    
+
+
+}
+
+.nav-logo{
+    font-family:'HeaderFont', Helvetica, sans-serif
+}
+.nav-sizes{
+    margin: 5 20 5 20;
+
+}
+.nav-bar-settings{
+   border-radius: 10px;
+   box-shadow:#e3f6f5;
+
+}
+
+@font-face {
+    font-family: "HeaderFont";
+    src: url("DancingScript-VariableFont_wght.ttf");
+}
